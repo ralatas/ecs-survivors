@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:src/ecs-survivors/Assets/Code/Generated/Game/Components/GameMaxHPComponent.cs.meta
+guid: e4dbb583cea642d4ab3d74ad047880d6
+========
+guid: 2b41b8ef7d63d8a41aa863a7cb05e64d
+>>>>>>>> 058085fb89773fe8ed3ee9fb01c2f3d54f2dc433:src/ecs-survivors/Assets/Code/Generated/Game/Components/GameAbilityIdComponent.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
